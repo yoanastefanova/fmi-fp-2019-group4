@@ -1,0 +1,2 @@
+--Ex 1: Create the function squaresList n which returns a list of all squares below a certain number N.
+-- squaresList 10 -> [1, 4, 9]
