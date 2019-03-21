@@ -13,3 +13,4 @@
 
 - [Week 3 (Haskell)](https://github.com/bbsbb/fmi-fp-2019-group4/tree/master/week-03) - Collections.
 - [Week 4 (Haskell)](https://github.com/bbsbb/fmi-fp-2019-group4/tree/master/week-04) - Still strugglign with collections.
+- [Week 5 (Haskell)](https://github.com/bbsbb/fmi-fp-2019-group4/tree/master/week-05) - Collections, string.
